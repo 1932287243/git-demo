@@ -24,3 +24,4 @@ nihaoya
 push code
 ssh test
 ssh push test
+红红火火恍恍惚惚
