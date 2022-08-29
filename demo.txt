@@ -22,3 +22,4 @@ master test
 hello http
 nihaoya
 push code
+ssh test
